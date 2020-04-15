@@ -1,0 +1,11 @@
+C:\Users\Fenias\source\repos\Professor\bin\Release\netcoreapp3.1\Professor.exe
+C:\Users\Fenias\source\repos\Professor\bin\Release\netcoreapp3.1\Professor.deps.json
+C:\Users\Fenias\source\repos\Professor\bin\Release\netcoreapp3.1\Professor.runtimeconfig.json
+C:\Users\Fenias\source\repos\Professor\bin\Release\netcoreapp3.1\Professor.runtimeconfig.dev.json
+C:\Users\Fenias\source\repos\Professor\bin\Release\netcoreapp3.1\Professor.dll
+C:\Users\Fenias\source\repos\Professor\bin\Release\netcoreapp3.1\Professor.pdb
+C:\Users\Fenias\source\repos\Professor\obj\Release\netcoreapp3.1\Professor.AssemblyInfoInputs.cache
+C:\Users\Fenias\source\repos\Professor\obj\Release\netcoreapp3.1\Professor.AssemblyInfo.cs
+C:\Users\Fenias\source\repos\Professor\obj\Release\netcoreapp3.1\Professor.dll
+C:\Users\Fenias\source\repos\Professor\obj\Release\netcoreapp3.1\Professor.pdb
+C:\Users\Fenias\source\repos\Professor\obj\Release\netcoreapp3.1\Professor.csprojAssemblyReference.cache
